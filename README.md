@@ -18,7 +18,7 @@
 
 1. Clone repo
 2. Run `npm ci`
-3. Run `npm run build`
+3. Run `npm run build` or `npm run build:release`
 4. Open `dist/index.html` in your browser
 
 or
