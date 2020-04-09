@@ -6,7 +6,7 @@ interface AppRootProps {
 
 class AppRoot extends React.Component<AppRootProps, {}> {
     componentDidMount() {
-       window.title = "Demo Project";
+       document.title = "Demo Project";
     }
 
     componentWillUnmount() {
